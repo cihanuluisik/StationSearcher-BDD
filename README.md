@@ -1,24 +1,3 @@
-Java-Technical-Test
-===================
-
-
-## Instructions
-
-1. Clone this git repository
-2. Read the README.md file containing the stories and acceptance tests for the test 
-3. Create your local branch
-4. Provide tests in your preferred style to support your solution.  
-The application has to be developed using spring framework, JPA, H2 as database and Jetty as container. 
-Apart from that, you can use your own technology stack for testing and implementation.
-5. Please commit every 30 minutes
-6. Push to your remote branch ( **not to master** )
-7. The user stories are just instructions, if you want you can refactor them as you wish, including the acceptance tests.
-
-## NOTE: DON'T PUSH TO MASTER
-
-
-
-
 
 Feature:
 As a user I want to be able to search for train stations by train station name
